@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a big data project.
 - 📫 How to reach me via email @ cmonjarr@gmail.com.
 - 😄 Pronouns: She/Her/Hers.
-- ⚡ Fun fact: I have two children; we do not share the same birthday, but our birthday falls on the same weekday every year.
+- ⚡ Fun fact: I have two children; we do not share the same birthday, but our birthdays fall on the same weekday every year.
 
 <!---
 cmonjarr/cmonjarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
